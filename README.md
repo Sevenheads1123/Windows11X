@@ -18,6 +18,9 @@ And many more to come!
 (Only 1.9 GB ram used! Take that, Microsoft!)
 
 # Download link
-*Coming soon*
+[Main Release Folder](https://drive.google.com/drive/folders/1i1lXDxW5kFV1qbbKCxSTP1VCuqici0U2?usp=sharing)
 
+# Notes
+-Current beta build (beta 2) as of writing this currently has a broken application that runs after post installation. It shouldn't damage the system in any way, so I'm not too worried about it. Will patch in beta 3.
 
+Also, we are not affiliated with Microsoft in any way.
