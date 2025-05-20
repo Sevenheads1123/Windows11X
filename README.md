@@ -3,7 +3,7 @@
 A debloated and custom iso built off of Windows 11
 Currently in beta.
 
-#Preinstalled apps
+# Preinstalled apps
 Windows 11X comes with the following:
 -Win10 Widgets (Rainmeter)
 -Windhawk
@@ -13,7 +13,7 @@ Windows 11X comes with the following:
 -Winaero Tweaker
 And many more to come!
 
-#Screenshot
+# Screenshot
 
 # Download link
 *Coming soon*
