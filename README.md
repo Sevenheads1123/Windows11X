@@ -18,7 +18,7 @@ And many more to come!
 (Only 1.9 GB ram used! Take that, Microsoft!)
 
 # Social and Download links
-[Main Release Folder](https://drive.google.com/drive/folders/1i1lXDxW5kFV1qbbKCxSTP1VCuqici0U2?usp=sharing)
+[Main Release Folder](https://drive.google.com/drive/folders/1i1lXDxW5kFV1qbbKCxSTP1VCuqici0U2?usp=sharing) |
 [Offical Discord](https://discord.gg/fUQucspA)
 
 # Notes
