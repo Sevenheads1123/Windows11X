@@ -23,5 +23,5 @@ And many more to come!
 
 # Notes
 -Current beta build (beta 2) as of writing this currently has a broken application that runs after post installation. It shouldn't damage the system in any way, so I'm not too worried about it. Will patch in beta 3.
-
+-We removed Microsoft Edge 🔥🔥🔥
 Also, we are not affiliated with Microsoft in any way.
