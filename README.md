@@ -5,12 +5,7 @@ Currently in beta.
 
 # Preinstalled apps
 Windows 11X comes with the following:
--Win10 Widgets (Rainmeter)
--Windhawk
--ExplorerPatcher
--Chrome (replaces Edge)
--Dotnet SDK
--Winaero Tweaker
+Win10 Widgets (Rainmeter), Windhawk, ExplorerPatcher, Chrome (replaces Edge), Dotnet SDK, Winaero Tweaker, Malwarebytes,
 And many more to come!
 
 # Screenshots
