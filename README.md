@@ -18,7 +18,7 @@ And many more to come!
 (Only 1.9 GB ram used! Take that, Microsoft!)
 
 ![Beta3StartOpt](https://github.com/user-attachments/assets/d3c6b5c5-3f08-407a-b5e5-f0942cff1931)
-(Start Menu with Windhawk, Start Menu Styler using the Windows11_Metro theme)
+(Start Menu with Windhawk, Start Menu Styler mod using the Windows11_Metro theme)
 
 # Social and Download links
 [Main Release Folder](https://drive.google.com/drive/folders/1i1lXDxW5kFV1qbbKCxSTP1VCuqici0U2?usp=sharing) |
