@@ -22,4 +22,4 @@ and many more to come!
 # Notes
 Beta 2 had a broken application that runs after post installation. It shouldn't damage the system in any way, so I'm not too worried about it. Patched in beta 3.
 We are not affiliated with Microsoft in any way.
-Also, Microsoft Edge has been completely removed from the .ISO
+Also, Microsoft Edge has been completely removed from the .ISO, if anybody cares.
