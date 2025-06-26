@@ -17,9 +17,9 @@ and many more to come!
 
 # Social and Download links
 [Main Release Folder](https://drive.google.com/drive/folders/1i1lXDxW5kFV1qbbKCxSTP1VCuqici0U2?usp=sharing) |
-[Offical Discord](https://discord.gg/fUQucspA)
+[Offical Discord](https://discord.gg/QTzXahYY)
 
-# Notes
+#  Notes
 Beta 2 had a broken application that runs after post installation. It shouldn't damage the system in any way, so I'm not too worried about it. Patched in beta 3.
 We are not affiliated with Microsoft in any way.
 Also, Microsoft Edge has been completely removed from the .ISO, if anybody cares.
