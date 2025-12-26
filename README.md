@@ -1,7 +1,7 @@
 # Windows11X
 
 A debloated and custom ISO built off of Windows 11 that aims to bring a better and more refreshing feel to the desktop.
-Currently in beta.
+
 
 # Preinstalled apps
 Windows 11X comes with the following:
