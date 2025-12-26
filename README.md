@@ -5,7 +5,7 @@ A debloated and custom ISO built off of Windows 11 that aims to bring a better a
 
 # Preinstalled apps
 Windows 11X comes with the following:
-Win10 Widgets (Rainmeter), Windhawk, ExplorerPatcher, Chrome (when the hell did i put this in?), Dotnet SDK, Winaero Tweaker, Malwarebytes,
+Win10 Widgets (Rainmeter), Windhawk, ExplorerPatcher, Chrome (when the hell did I put this in?), Dotnet SDK, Winaero Tweaker, Malwarebytes,
 and many more to come!
 
 # Screenshots
