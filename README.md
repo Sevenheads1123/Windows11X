@@ -2,7 +2,7 @@
 
 A debloated and custom ISO built off of Windows 11 that aims to bring a better and more refreshing feel to the desktop.
 
-"It's your OS now. Do whatever you want with it."
+"It's your OS now. Do whatever you want with it." -Me, December 26th, 2025
 
 # Preinstalled apps
 Windows 11X comes with the following:
