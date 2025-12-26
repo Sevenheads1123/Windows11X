@@ -21,4 +21,4 @@ and many more to come!
 
 #  Notes
 We are not affiliated with Microsoft in any way.
-Also, Microsoft Edge has been completely removed from the .ISO, if anybody cares.
+Also, Microsoft Edge has been completely removed from the .ISO, if anybody cares. Pretty sure I mentioned that before.
